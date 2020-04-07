@@ -1,0 +1,3 @@
+[submodule "cigar"]
+	path = cigar
+	url = https://github.com/cigarframework/cigar
